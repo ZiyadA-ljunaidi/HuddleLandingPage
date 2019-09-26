@@ -1,0 +1,301 @@
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{ 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+
+a:link{
+
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    font-size: 20px;
+    text-decoration: none;
+    
+
+}
+
+a:visited{
+
+    color: white;
+
+}
+
+a:hover{
+
+    color: rgb(201, 201, 201);
+
+}
+
+a:active{
+
+    color: rgb(156, 156, 156);
+
+}
+
+i.fab{
+    color: white; /*for the icons color*/
+}
+
+#top-bar{
+
+    width: 1440px; 
+    height: 650px;
+    background-image: url("bg-hero-desktop.svg");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 0px;
+    background-color: rgba(226, 243, 250, 0.541);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px  rgb(207, 207, 207);
+   
+}
+
+#huddle-logo{
+    
+    width: 150px;
+    padding: 25px;
+    padding-left: 35px;
+}
+
+#try-ur-self{
+
+    border: none;
+    color: black;
+    background-color: rgb(250, 250, 250);
+    border-radius: 50px;
+    padding: 15px 45px;
+    margin-right: 40px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px  rgb(218, 235, 255);
+    float:right;
+    font-weight: bold;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+#text-1{
+
+    padding: 35px;
+
+}
+
+#text-style{
+    font-size: 20px;
+}
+
+.get-started{
+
+    border: none;
+    border-radius: 50px;
+    padding: 15px 45px;
+    color:white;
+    background-color: rgb(250, 92, 203);
+    box-shadow: 0px 0px 10px  rgb(238, 125, 248);
+    margin-top: 20px;
+}
+
+#ill-mock-up{
+
+    width: 650px;
+    height: 0 auto;
+    float: right;
+    margin-top: -300px;
+    margin-right: 90px; 
+}
+
+#spacing{
+
+    margin-top: 100px;
+
+}
+
+.rectangle{
+
+    width: 1300px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px  rgb(207, 207, 207);
+    
+}
+
+#grow-together{
+
+    width: 380px;
+    margin-top: 50px;
+    margin-right: 50px;
+    float: right;
+}
+
+#text-2{
+
+    padding-left: 130px;
+    padding-top: 130px;
+    float: left;
+}
+
+.text-color{
+
+    color: rgb(129, 129, 129);
+    font-size: 20px;
+
+}
+
+#ill-flowing-conversation{
+
+    width: 380px;
+    margin-top: 60px;
+    margin-left: 50px;
+    float: left;
+}
+
+#text-3{
+
+    padding-right: 150px;
+    padding-top: 130px;
+    float: right;
+
+}
+
+#ill-your-users{
+
+    width: 380px;
+    margin-top: 60px;
+    margin-right: 50px;
+    float: right;
+
+}
+
+#text-4{
+
+    padding-left: 130px;
+    padding-top: 130px;
+    float: left;
+
+}
+
+#rectangle-shadow{
+    width: 700px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px  rgb(207, 207, 207);
+
+}
+
+#rectangle-2{
+
+    width: 700px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    position: relative;
+
+}
+
+#text-5{
+    padding-top: 45px;
+    padding-left: 165px; 
+  
+}
+
+#button-2{
+    margin-left: 240px;
+    margin-top: 40px;
+    
+}
+
+#rectangle-3{
+
+    background-color: hsl(192, 100%, 9%);
+    width: 100%;
+    height: 600px;
+    margin-top: -100px;
+
+}
+
+#logo-huddle-2{
+
+    width: 300px;
+    padding-top: 150px;
+    padding-left: 100px;
+      
+}
+
+.settings-div{
+
+    margin-top: 40px;
+    margin-left: 100px;
+
+}
+
+#positioning{
+    float: left;
+    margin-top: 4px;
+}
+
+.text-color-white{
+
+    margin: 0 auto;
+    margin-left: 40px;
+    color: white;
+
+}
+
+#links-div{
+
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: -150px;
+    
+}
+
+.links-1{
+
+    margin-top: -130px;
+    float: left;
+    padding: 
+
+}
+
+.links-2{
+
+    margin-top:-130px;
+    float: right;
+
+}
+
+.space{
+
+    padding: 10px;
+
+}
+
+#social-media{
+
+    margin-right: 200px;
+    margin-top:-150px;
+    float: right;
+}
+
+.button-style{
+
+    background-color: rgba(255, 255, 0, 0);
+    border: none;
+    padding-right: 30px;
+
+}
+
+
